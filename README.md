@@ -1,6 +1,7 @@
-# key_scanner_plugin
+# key_scanner_plugin for Android
 
-A new flutter plugin project.
+Plugin for scanning nearby bluetooth device Including (Android 10.), but the location service must be enabled.
+In my case, I use this plugin for finding my board project (the 'key board' with HC-05 bluetooth device's) so we can track the device using bluetooth signal strength (RSSI) and then convert it to distance (meter). If our distance to device is less then 2 meters, we can hear the Beep Sound from the Buzzer that I use in my device too.
 
 ## Getting Started
 
