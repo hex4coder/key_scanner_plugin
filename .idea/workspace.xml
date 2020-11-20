@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="android mode" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f67688a-8099-49ff-a3fe-f31b6883d37c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[3b8c563e]" />
+  <component name="ProjectId" id="1kU73dVrvvXa0kEMl8gqKzd38dz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f67688a-8099-49ff-a3fe-f31b6883d37c" name="Default Changelist" comment="" />
+      <created>1605743118090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605743118090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1166" height="528" key="AVDManager" timestamp="1605780527790">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="100" y="100" width="1166" height="528" key="AVDManager/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1605780527790" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1605775016324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1605775016324" />
+    <state width="1397" height="394" key="GridCell.Tab.0.bottom" timestamp="1605834072915">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="394" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605834072915" />
+    <state width="1306" height="265" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1605792238841" />
+    <state width="1397" height="394" key="GridCell.Tab.0.center" timestamp="1605834072915">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="394" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605834072915" />
+    <state width="1306" height="265" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1605792238841" />
+    <state width="1397" height="394" key="GridCell.Tab.0.left" timestamp="1605834072915">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="394" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605834072915" />
+    <state width="1306" height="265" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1605792238841" />
+    <state width="1397" height="394" key="GridCell.Tab.0.right" timestamp="1605834072915">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="394" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1605834072915" />
+    <state width="1306" height="265" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1605792238841" />
+    <state x="339" y="16" width="672" height="676" key="search.everywhere.popup" timestamp="1605787333252">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="16" width="672" height="676" key="search.everywhere.popup/0.0.1366.728/1366.0.1536.824@0.0.1366.728" timestamp="1605787333252" />
+  </component>
+</project>
